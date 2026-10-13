@@ -133,3 +133,7 @@ Use `npm install` to install the packages.
 **Export the express instance using the default export syntax.**
 
 **Use Common JS module syntax.**
+=======
+# cricketTeam
+Developed RESTful APIs using Node.js, Express.js, and SQLite to manage cricket team player details with CRUD operations.
+>>>>>>> ba175888aafd478828d6674e578de0d5cd2b1121
